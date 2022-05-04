@@ -7,11 +7,15 @@ profile:
 published: true
 ---
 
+<br>
+
 ---- 
 
 Our cover image is "Machine Learning" by [Ben Davis from NounProject.com](https://thenounproject.com/icon/machine-learning-1718365/)
 
 ----
+
+<br>
 
 As libraries, archives, and museums shift from conceptual awareness to operational use of data science, machine learning, and artificial intelligence (AI), they require domain-specific resources to make the transition. Readily-available, off-the-shelf workflows, applications, and models built by big tech will often perform poorly with cultural heritage and historical data. Beyond the issue of accuracy, they pose specific dangers when applied to culturally-sensitive collections, with potential for amplifying harms at scale. Domain-specific resources are crucial for operational use that supports library, archive, and museum aspirations to increase equity for the communities they serve. From 2019-2020 a series of machine learning and AI cultural heritage research agendas, state of field analyses, and reports were produced by [Thomas Padilla](https://doi.org/10.25333/XK7Z-9G97), [Elizabeth Lorang](https://digitalcommons.unl.edu/libraryscience/396), [Ryan Cordell](https://blogs.loc.gov/thesignal/2020/07/machine-learning-libraries-a-report-on-the-state-of-the-field/), [Oonagh Murphy](https://themuseumsai.network/toolkit/), and [Andrew Cox](https://doi.org/10.1108/LHT-08-2018-0105), among others.     
 
