@@ -1,7 +1,7 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Values-Forward Praxis
+description: Data Science, Machine Learning, and Artificial Intelligence in Cultural Heritage Organizations
 
 baseurl: "" #name of GitHub repository
 url: "https://valuesforwardpraxis.github.io" #custom url to be used instead of GitHub repository
@@ -17,12 +17,10 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-facebook: "#"
 twitter: "ryancordell"
-linkedin: "#"
 github: "ValuesForwardPraxis"
-researchgate: "#"
-orcid: "#"
+# researchgate: "#"
+# orcid: "#"
 
 highlighter: rouge
 markdown: kramdown

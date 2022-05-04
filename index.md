@@ -3,12 +3,20 @@ layout: about
 permalink: /
 profile:
   align: right
-  image: profile.png
+  image: noun-machine-1941434.png
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+As libraries, archives, and museums shift from conceptual awareness to operational use of data science, machine learning, and artificial intelligence (AI), they require domain-specific resources to make the transition. Readily-available, off-the-shelf workflows, applications, and models built by big tech will often perform poorly with cultural heritage and historical data. Beyond the issue of accuracy, they pose specific dangers when applied to culturally-sensitive collections, with potential for amplifying harms at scale. Domain-specific resources are crucial for operational use that supports library, archive, and museum aspirations to increase equity for the communities they serve. From 2019-2020 a series of machine learning and AI cultural heritage research agendas, state of field analyses, and reports were produced by [Thomas Padilla](https://doi.org/10.25333/XK7Z-9G97), [Elizabeth Lorang](https://digitalcommons.unl.edu/libraryscience/396), [Ryan Cordell](https://blogs.loc.gov/thesignal/2020/07/machine-learning-libraries-a-report-on-the-state-of-the-field/), [Oonagh Murphy](https://themuseumsai.network/toolkit/), and [Andrew Cox](https://doi.org/10.1108/LHT-08-2018-0105), among others.     
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+These resources share in common foundational focus on equity and justice in computational work. Recommendations  from this body of work span nearly all aspects of library and cultural heritage organization activity, including description and discovery, public services, collection development, infrastructure development, and sustaining interdisciplinary and interprofessional collaboration. This publication aims to build on that body of work, advancing from high level recommendations to the creation of concrete resources that support responsible operational use of data science, machine learning, and AI in libraries, archives, and museums. This resource will be a primary asset to libraries, archives, and museum practitioners as they seek to responsibly operationalize data science, machine learning, and AI.  
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+## Research Team
+
++ [Thomas Padilla](https://www.thomaspadilla.org/), Center for Research Libraries
++ [Elizabeth Lorang](https://www.elizabethlorang.com/), University of Nebraska­–Lincoln
++ [Rebecca Dikow](https://datascience.si.edu/people/dr-rebecca-dikow), Smithsonian Institution
++ [Jefferson Bailey](https://github.com/jeffersonbailey), Internet Archive
++ [Ryan Cordell](https://ryancordell.org/), University of Illinois at Urbana-Champaign
++ [Harish Maringanti](https://faculty.utah.edu/u0986122-Harish_Kumar_Maringanti/research/index.hml), University of Utah
+
