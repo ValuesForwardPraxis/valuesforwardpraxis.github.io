@@ -5,6 +5,7 @@ permalink: /projects/
 published: true
 ---
 
+<hr>
 
 <div class="ProjectContainer">
 
