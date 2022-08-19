@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Call for Participation in Values-Forward Praxis"
+title: "Call for Participation!"
 ---
 
 _Values-Forward Praxis: Data Science, Machine Learning, & AI in Cultural Heritage Organizations_ will be a CLIR “Pocket Burgundy” book that supports responsible operational use of data science, machine learning, and AI in libraries, archives, and museums. To facilitate that goal, we are in the process of interviewing professionals working in libraries, archives, and museums, for their thoughts, opinions, and experiences related to using artificial intelligence and machine learning in the cultural heritage sector.
