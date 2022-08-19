@@ -19,7 +19,7 @@ These resources share in common foundational focus on equity and justice in comp
 
 ## Research Team
 
-+ [Thomas Padilla](https://www.thomaspadilla.org/), Center for Research Libraries
++ [Thomas Padilla](https://www.thomaspadilla.org/), Internet Archive
 + [Elizabeth Lorang](https://www.elizabethlorang.com/), University of Nebraska­–Lincoln
 + [Rebecca Dikow](https://datascience.si.edu/people/dr-rebecca-dikow), Smithsonian Institution
 + [Jefferson Bailey](https://github.com/jeffersonbailey), Internet Archive
